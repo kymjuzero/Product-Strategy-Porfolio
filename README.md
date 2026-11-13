@@ -1,6 +1,6 @@
 # Product Strategy Portfolio
 
-A collection of product strategy and innovation case studies developed through international business case competitions with the **Laurier Case Team** at Wilfrid Laurier University.
+This is a collection of product strategy and innovation case studies developed through international business case competitions with the **Laurier Case Team**!
 
 These projects explore how to identify customer needs, evaluate market opportunities, design innovative product experiences, and develop commercially viable strategies. Each case involved analyzing real business challenges, developing recommendations, and presenting solutions under competitive time constraints.
 
@@ -70,5 +70,8 @@ Across these cases, I focused on five core stages of product thinking:
 5. **Plan execution:** Develop implementation roadmaps, go-to-market strategies, and success metrics.
 
 ## About Me
+I'm a Computer Science and Business Administration double-degree student at the University of Waterloo and Wilfrid Laurier University, with experience developing AI and analytics products in financial markets.
 
-I'm a Computer Science and Business
+My interests lie at the intersection of technology, product management, business strategy, and user experience.
+
+This portfolio highlights the strategic side of my work, complementing my hands-on experience building and launching production software.
