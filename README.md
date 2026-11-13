@@ -1,8 +1,10 @@
 # Product Strategy Portfolio
 
-This is a collection of product strategy and innovation case studies developed through international business case competitions with the **Laurier Case Team**!
+This is a collection of product strategy and innovation cases I've solved through international business case competitions with the **Laurier Case Team**!
 
-These projects explore how to identify customer needs, evaluate market opportunities, design innovative product experiences, and develop commercially viable strategies. Each case involved analyzing real business challenges, developing recommendations, and presenting solutions under competitive time constraints.
+Each case challenged me to tackle a different real-world business problem, from understanding customer needs and identifying market opportunities to designing new product experiences and developing growth strategies. Working alongside my teammates, I've had the opportunity to explore different industries, brainstorm creative solutions, and turn our ideas into actionable recommendations under tight deadlines.
+
+These are some of my favourite cases, and I wanted to share the ideas, research, and product thinking that went into them!
 
 ## Featured Case Studies
 
